@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav>
-      <nuxt-link to="addcoin">AND COIN</nuxt-link>
+      <!-- <nuxt-link to="addcoin">AND COIN</nuxt-link> -->
       <nuxt-link to="sellproduct">SELL PRODUCT</nuxt-link>
     </nav>
 
